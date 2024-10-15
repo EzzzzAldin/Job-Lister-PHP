@@ -1,0 +1,17 @@
+# Config files
+config.php
+.env
+
+# Composer dependencies
+/vendor
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+/tmp
+/sessions
+
+# Uploads
+/uploads
